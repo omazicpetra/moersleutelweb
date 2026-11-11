@@ -1,8 +1,0 @@
-{
-  "name": "guild-inside-the-blend",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Moersleutel Guild unboxing presentation prototype",
-  "scripts": { "start": "node serve.mjs", "test": "node --test tests/state.test.cjs" },
-  "engines": { "node": ">=18" }
-}
